@@ -16,4 +16,4 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ![Mobile Sales Dashboard](https://github.com/imtiaz707/Customer_Behavior_analysis/blob/main/Dashboard.png?raw=true)
 
-> *Interactive Power BI dashboard showing customer behabior*
+> *Interactive Power BI dashboard showing customer behavior*
